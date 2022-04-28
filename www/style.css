@@ -1,0 +1,93 @@
+html, body
+{
+    padding: 0;
+    margin: 0;
+    background-color: #7fa4db;
+    width: 100%;
+    height: 100%;
+
+}
+
+#top
+{
+    background-color: #7fa4db;
+    width: 100%;
+    font-size: 40px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    height: 6%;
+    
+}
+
+#logowanie
+{
+    float: right;
+    margin-right: 3%;
+    border-radius: 10%;
+    
+}
+
+
+#registry
+{
+    float: right;
+    margin-right: 2%;
+    border-radius: 10%;
+    
+}
+
+#tresc
+{
+    background-color: aliceblue;
+    height: 80%;
+    width: 85%;
+    float: left;
+}
+
+#menu
+{
+    float: right;
+    width: 15%;
+    height: 100%;
+    background-color: #7fa4db;
+}
+
+.menup
+{
+    background-color: #52ace0;
+    padding: 10%;
+    font-size: large;
+    width: 100%;
+}
+
+.menut
+{
+    width: 100%;
+}
+
+.menup:hover
+{
+    color: white;
+    background-color: #3db2cf;
+}
+
+.formularz
+{
+    text-align: center;
+    margin: 20%;
+    color:red;
+}
+
+.butlog
+{
+    background-color: #a11212;
+    font-size: large;
+    border-radius: 20px;
+}
+
+.buttop
+{
+    background-color: #a11212;
+    font-size: large;
+    border-radius: 20px;
+}
