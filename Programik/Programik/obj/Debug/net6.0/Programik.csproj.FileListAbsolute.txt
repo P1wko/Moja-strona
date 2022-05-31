@@ -1,0 +1,15 @@
+F:\Michal\Projekt\Contest\Moja-strona\Programik\Programik\bin\Debug\net6.0\Programik.exe
+F:\Michal\Projekt\Contest\Moja-strona\Programik\Programik\bin\Debug\net6.0\Programik.deps.json
+F:\Michal\Projekt\Contest\Moja-strona\Programik\Programik\bin\Debug\net6.0\Programik.runtimeconfig.json
+F:\Michal\Projekt\Contest\Moja-strona\Programik\Programik\bin\Debug\net6.0\Programik.dll
+F:\Michal\Projekt\Contest\Moja-strona\Programik\Programik\bin\Debug\net6.0\Programik.pdb
+F:\Michal\Projekt\Contest\Moja-strona\Programik\Programik\obj\Debug\net6.0\Programik.csproj.AssemblyReference.cache
+F:\Michal\Projekt\Contest\Moja-strona\Programik\Programik\obj\Debug\net6.0\Programik.GeneratedMSBuildEditorConfig.editorconfig
+F:\Michal\Projekt\Contest\Moja-strona\Programik\Programik\obj\Debug\net6.0\Programik.AssemblyInfoInputs.cache
+F:\Michal\Projekt\Contest\Moja-strona\Programik\Programik\obj\Debug\net6.0\Programik.AssemblyInfo.cs
+F:\Michal\Projekt\Contest\Moja-strona\Programik\Programik\obj\Debug\net6.0\Programik.csproj.CoreCompileInputs.cache
+F:\Michal\Projekt\Contest\Moja-strona\Programik\Programik\obj\Debug\net6.0\Programik.dll
+F:\Michal\Projekt\Contest\Moja-strona\Programik\Programik\obj\Debug\net6.0\refint\Programik.dll
+F:\Michal\Projekt\Contest\Moja-strona\Programik\Programik\obj\Debug\net6.0\Programik.pdb
+F:\Michal\Projekt\Contest\Moja-strona\Programik\Programik\obj\Debug\net6.0\Programik.genruntimeconfig.cache
+F:\Michal\Projekt\Contest\Moja-strona\Programik\Programik\obj\Debug\net6.0\ref\Programik.dll

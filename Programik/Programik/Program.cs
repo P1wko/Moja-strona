@@ -1,2 +1,1 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, Witam!");
+﻿Console.WriteLine("{0} {1}", int.MinValue, int.MaxValue);

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projekt\\Moja-strona\\Programik\\Programik\\Programik.csproj": {}
+    "F:\\Michal\\Projekt\\Contest\\Moja-strona\\Programik\\Programik\\Programik.csproj": {}
   },
   "projects": {
-    "E:\\Projekt\\Moja-strona\\Programik\\Programik\\Programik.csproj": {
+    "F:\\Michal\\Projekt\\Contest\\Moja-strona\\Programik\\Programik\\Programik.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projekt\\Moja-strona\\Programik\\Programik\\Programik.csproj",
+        "projectUniqueName": "F:\\Michal\\Projekt\\Contest\\Moja-strona\\Programik\\Programik\\Programik.csproj",
         "projectName": "Programik",
-        "projectPath": "E:\\Projekt\\Moja-strona\\Programik\\Programik\\Programik.csproj",
+        "projectPath": "F:\\Michal\\Projekt\\Contest\\Moja-strona\\Programik\\Programik\\Programik.csproj",
         "packagesPath": "C:\\Users\\mimin\\.nuget\\packages\\",
-        "outputPath": "E:\\Projekt\\Moja-strona\\Programik\\Programik\\obj\\",
+        "outputPath": "F:\\Michal\\Projekt\\Contest\\Moja-strona\\Programik\\Programik\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mimin\\AppData\\Roaming\\NuGet\\NuGet.Config",
