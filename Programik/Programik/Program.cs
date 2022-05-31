@@ -1,1 +1,12 @@
-﻿Console.WriteLine("{0} {1}", int.MinValue, int.MaxValue);
+﻿using System;
+
+namespace Programik
+{
+    class Program
+    {
+        static void Main
+        {
+            Console.WriteLine("Hello World");
+        }
+    }
+}
