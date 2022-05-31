@@ -1,0 +1,5 @@
+E:\Projekt\Moja-strona\Programik\Programik\obj\Debug\net6.0\Programik.csproj.AssemblyReference.cache
+E:\Projekt\Moja-strona\Programik\Programik\obj\Debug\net6.0\Programik.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekt\Moja-strona\Programik\Programik\obj\Debug\net6.0\Programik.AssemblyInfoInputs.cache
+E:\Projekt\Moja-strona\Programik\Programik\obj\Debug\net6.0\Programik.AssemblyInfo.cs
+E:\Projekt\Moja-strona\Programik\Programik\obj\Debug\net6.0\Programik.csproj.CoreCompileInputs.cache
