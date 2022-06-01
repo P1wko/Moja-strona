@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
+    [SerializeField] private Transform groundCheckTransform;
+    [SerializeField] private LayerMask playerMask;
     private bool isKeyPressDown;
     private float horizontalInput;
     private Rigidbody rigibodyComponent;
@@ -25,6 +27,10 @@ public class Player : MonoBehaviour
 
     private void FixedUpdate()
     {
+        if (Physics.OverlapSphere(groundCheckTransform.position, 0.1f, playerMask).Length == 0)
+        {
+            return;
+        }
         if(isKeyPressDown)
         {
             rigibodyComponent.AddForce(Vector3.up * 5, ForceMode.VelocityChange);
